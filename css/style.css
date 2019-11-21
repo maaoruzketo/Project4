@@ -1,4 +1,6 @@
 body{
-    background-image: url(/images/background.jpg);
-    background-repeat: no-repeat;
+    background-image: url("/Project4/images/background.jpg"); /* The image used */
+    height: 100vh;
+    background-size: cover;
+    position: relative;
 }
