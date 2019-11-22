@@ -6,8 +6,7 @@ body{
 }
 
 .navbar{
-    background-color: darkblue;
-    opacity: 60%;
+    background-color: rgb(0, 0,204,.6);
 }
 
 .nav-item{
