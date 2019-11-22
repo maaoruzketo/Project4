@@ -40,3 +40,9 @@ body{
     opacity: 100%;
     background-color: white;
 }
+
+.churchTitle{
+    color: white;
+    padding-left: 5px;
+    padding-right: 10px;
+}
