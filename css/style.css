@@ -8,3 +8,13 @@ body{
 .frankieCardWidth{
     width: 18rem;
 }
+
+.frankieBgGallery{
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.frankieJumbo{
+    background-color: blue
+}
